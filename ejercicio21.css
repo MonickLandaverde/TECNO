@@ -1,0 +1,20 @@
+﻿body{
+    background: #d3dede;
+    font-size: 100%;
+    margin: 10px;
+    font-family:Tahoma;
+    color: #444;
+}
+nav ul{
+    background: 3e8e8e8;
+    padding: 0;
+    width: 25%;
+}
+nav li a{
+    background: #e8e8e8;
+    padding: o;
+    width: 25%;
+}
+nav a:hober{
+    color: #fff;
+}

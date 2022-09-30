@@ -1,0 +1,21 @@
+﻿body{
+    font-size:13px;
+    font-family:Tahoma, Verdana, Geneva, sans-serif;
+    color:#FFF;
+    background-color:#fff;
+}
+p#izquierda{
+    float:left;
+}
+p#derecha{
+    float:right;
+}
+a{
+    color: yellow;
+}
+footer{
+    height:400px;
+    margin:10px;
+    padding: 10px;
+    background-color:#000;
+}

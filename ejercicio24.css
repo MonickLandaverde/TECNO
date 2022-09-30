@@ -1,0 +1,20 @@
+﻿body{
+    font-family:Tahoma;
+}
+P{
+    margin: 8px;
+    text-align:justify;
+}
+article{
+    margin: 10px;
+    padding: 5px;
+    float:left;
+    width: 30%;
+    height: 450px;
+    background:#CFC;
+    text-align:center;
+}
+img{
+    width:400px;
+    height:250px;
+}
